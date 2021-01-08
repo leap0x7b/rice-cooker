@@ -13,7 +13,7 @@ git clone https://gitlab.com/LeapofAzzam/rice-cooker
 After you clone the repository, go to the repository and run this command:
 
 ```shell
-./setup.sh
+./cook.py
 ```
 
 The setup will run and setting up all of your ricing purposes.
